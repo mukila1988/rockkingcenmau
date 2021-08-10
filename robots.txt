@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://skynet2550.us.to/sitemap.xml
